@@ -2,7 +2,7 @@
 # A very simple Flask Hello World app for you to get started with...
 
 from flask import Flask
-from _collections import Counter
+from collections import Counter
 import json
 
 app = Flask(__name__)
